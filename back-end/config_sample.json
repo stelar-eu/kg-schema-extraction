@@ -1,0 +1,6 @@
+{
+    "result_folder" : "/path/to/data/",
+    "pickle_folder" : "/path/to/pickles/",
+    "comparison_folder" : "/path/to/comparisons/",
+    "test_filename" : "/path/to/nobelprize.nt"
+}
